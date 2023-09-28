@@ -20,3 +20,6 @@
 
 ### 6-firstdirectory 
 - a script that create a directory in an existing directory
+
+### 7-movethatfile
+- script to move file from one dir to another dir
