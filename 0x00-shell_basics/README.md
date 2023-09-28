@@ -17,3 +17,6 @@
 
 ### 5-listfilesdigitonly
 - list all contents in dir and hidden files in long format with user and group IDs
+
+### 6-firstdirectory 
+- a script that create a directory in an existing directory
