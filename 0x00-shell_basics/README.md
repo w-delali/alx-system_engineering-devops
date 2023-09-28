@@ -48,3 +48,6 @@ s the type of file iamafile in /tmp
 
 ### 100-lets_move
  script that moves all files beginning with an uppercase letter to the dir /tmp/u
+
+### 101-clean_emacs
+- script that deletes all files in the current working directory that end with the character ~
