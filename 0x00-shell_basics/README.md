@@ -26,3 +26,6 @@
 
 ### 8-firstdelete 
 - script to delete a file from a dir
+
+### 9-firstdirdeletion 
+- script to delete an empty dir
