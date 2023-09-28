@@ -35,3 +35,7 @@
 
 ### 11-lists
 - list all files including hidden in current , parent and the boot dir
+
+### 12-file_type
+- script that print
+s the type of file iamafile in /tmp
