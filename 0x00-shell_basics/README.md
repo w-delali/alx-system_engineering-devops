@@ -45,3 +45,6 @@ s the type of file iamafile in /tmp
 
 ### 14-copy_html
 -script to copy html files from current dir to parent dir with only non-existing files in the parent dir or html files with newer version that that of the one in parent dir
+
+### 100-lets_move
+ script that moves all files beginning with an uppercase letter to the dir /tmp/u
