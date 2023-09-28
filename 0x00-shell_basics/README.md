@@ -29,3 +29,6 @@
 
 ### 9-firstdirdeletion 
 - script to delete an empty dir
+
+### 10-back 
+- script to go to previous dir
