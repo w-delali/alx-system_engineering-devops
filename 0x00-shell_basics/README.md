@@ -23,3 +23,6 @@
 
 ### 7-movethatfile
 - script to move file from one dir to another dir
+
+### 8-firstdelete 
+- script to delete a file from a dir
