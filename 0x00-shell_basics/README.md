@@ -10,4 +10,7 @@
 - change directory to home directory 
 
 ### 3-listfiles
-- list files in dir in long format 
+- list files in dir in long format
+ 
+### 4-listmorefiles 
+- list all hidden files
