@@ -42,3 +42,6 @@ s the type of file iamafile in /tmp
 
 ### 13-symbolic_link
 - script to create symbolic link to /bin/ls
+
+### 14-copy_html
+-script to copy html files from current dir to parent dir with only non-existing files in the parent dir or html files with newer version that that of the one in parent dir
