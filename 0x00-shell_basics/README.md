@@ -39,3 +39,6 @@
 ### 12-file_type
 - script that print
 s the type of file iamafile in /tmp
+
+### 13-symbolic_link
+- script to create symbolic link to /bin/ls
