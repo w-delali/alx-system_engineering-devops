@@ -14,3 +14,6 @@
  
 ### 4-listmorefiles 
 - list all hidden files
+
+### 5-listfilesdigitonly
+- list all contents in dir and hidden files in long format with user and group IDs
