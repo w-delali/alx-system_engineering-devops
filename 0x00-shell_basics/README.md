@@ -32,3 +32,6 @@
 
 ### 10-back 
 - script to go to previous dir
+
+### 11-lists
+- list all files including hidden in current , parent and the boot dir
