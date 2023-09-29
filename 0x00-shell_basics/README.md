@@ -54,3 +54,6 @@ s the type of file iamafile in /tmp
 
 ### 102-tree
 - script that creates the dirs welcome/, ... in the current dir
+
+### 103-commas
+- script that lists files and dirs of the current dir, separated by commas
