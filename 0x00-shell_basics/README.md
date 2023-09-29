@@ -57,3 +57,6 @@ s the type of file iamafile in /tmp
 
 ### 103-commas
 - script that lists files and dirs of the current dir, separated by commas
+
+### school.mgc
+- a magic file that can be used with the command *file* to detect *School* data files.
