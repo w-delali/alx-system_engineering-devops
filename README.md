@@ -1,4 +1,4 @@
-### AlX System Engineering Repo
+# AlX System Engineering Repo
 ---
 ## Project: **0x00-shell_basics**
 - Understanding **The Shell*
