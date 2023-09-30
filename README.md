@@ -1,7 +1,7 @@
 # AlX System Engineering Repo
 ---
 ## 1. 0x00-shell_basics
-- Understanding **The Shell*
+- Understanding **The Shell**
 - Shell Navigation
 - Looking Around
 - Manipulating Files
