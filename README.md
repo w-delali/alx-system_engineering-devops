@@ -1,6 +1,6 @@
 # AlX System Engineering Repo
 ---
-## Project: **0x00-shell_basics**
+## 1. 0x00-shell_basics
 - Understanding **The Shell*
 - Shell Navigation
 - Looking Around
@@ -8,5 +8,5 @@
 - Working with Commands
 - *etc*
 
-## Project: **0x0-shell_permissions**
+## 2. 0x0-shell_permissions
 - Permissions
