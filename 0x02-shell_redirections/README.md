@@ -31,3 +31,6 @@
 
 ### 9-duplicate_last_line
 - script that duplicates the last line of file iacta
+
+### 10-no_more_js
+- script that removes only regular files with **.js** exsub dir
