@@ -7,3 +7,6 @@
 
 ### 1-confused_smiley
 - a script that displays a confused smiley
+
+### 2-hellofile
+- a script to display the content of the file /etc/passwd
