@@ -46,3 +46,6 @@
 
 ### 14-findthatword
 - script that displays lines containing the pattern “root” from the file **/etc/passwd**
+
+### 15-countthatword
+- script that display the number of lines that contain the pattern “bin” in the file /etc/pa
