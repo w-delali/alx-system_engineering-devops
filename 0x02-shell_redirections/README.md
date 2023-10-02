@@ -28,3 +28,6 @@
 
 ### 8-cwd_state
 - script that writes into file a command's results
+
+### 9-duplicate_last_line
+- script that duplicates the last line of file iacta
