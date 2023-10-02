@@ -22,3 +22,6 @@
 
 ### 6-thirdline
 - script to display the third line of a file
+
+### 7-file
+- script that create a file name with special characters
