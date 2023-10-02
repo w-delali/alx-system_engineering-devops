@@ -34,3 +34,6 @@
 
 ### 10-no_more_js
 - script that removes only regular files with **.js** exsub dir
+
+### 11-directories
+- script that counts the number of directories and sub-directories in the current directory
