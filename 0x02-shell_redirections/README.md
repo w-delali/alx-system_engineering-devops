@@ -16,3 +16,6 @@
 
 ### 4-lastlines
 - script to display the last 10 lines of **/etc/passwd**
+
+### 5-firstlines
+- script to display the first 10 lines of **/etc/passwd**
