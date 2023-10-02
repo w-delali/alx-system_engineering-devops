@@ -19,3 +19,6 @@
 
 ### 5-firstlines
 - script to display the first 10 lines of **/etc/passwd**
+
+### 6-thirdline
+- script to display the third line of a file
