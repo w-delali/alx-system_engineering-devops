@@ -25,3 +25,6 @@
 
 ### 7-file
 - script that create a file name with special characters
+
+### 8-cwd_state
+- script that writes into file a command's results
