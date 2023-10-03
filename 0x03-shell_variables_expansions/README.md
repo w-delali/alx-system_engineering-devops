@@ -46,3 +46,6 @@
 
 ### 100-decimal_to_hexadecimal
 - script that converts a number from base 10 to base 16
+
+### 101-rot13
+- script that encodes and decodes text using the rot13 encryption
