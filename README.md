@@ -18,3 +18,9 @@
 - How to send the output from one program to the input of another
 - How to combine commands and filters with redirections
 
+## 4. 0x03-shell_variables_expansions
+- Shell initialization files
+- Variables
+- Expansions
+- Shell Arithmetic
+- The **alias** Command
