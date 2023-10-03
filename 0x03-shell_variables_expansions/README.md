@@ -22,3 +22,6 @@
 
 ### 6-create_local_variable
 - script that creates a new local variable
+
+### 7-create_global_variable
+- script that creates a new global variable
